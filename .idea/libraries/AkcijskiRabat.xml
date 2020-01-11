@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AkcijskiRabat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Rabat/dist/AkcijskiRabat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

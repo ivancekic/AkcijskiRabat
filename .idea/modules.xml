@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Rabat/JDatePickerDemo/JDatePickerDemo.iml" filepath="$PROJECT_DIR$/Rabat/JDatePickerDemo/JDatePickerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rabat/Rabat.iml" filepath="$PROJECT_DIR$/Rabat/Rabat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rabat/jcalendar-1.4/jcalendar-1.4.iml" filepath="$PROJECT_DIR$/Rabat/jcalendar-1.4/jcalendar-1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rabat/swingx/swingx.iml" filepath="$PROJECT_DIR$/Rabat/swingx/swingx.iml" />
+    </modules>
+  </component>
+</project>
